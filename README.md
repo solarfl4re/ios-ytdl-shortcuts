@@ -25,12 +25,12 @@ __iOS share sheet__ (YouTube URL) > __Скачать ... с YouTube__ [Shortcuts
 To pass files on to Shortcuts, it adds each file to a ZIP archive, encodes it with base64, and then puts it on the clipboard.
 
 ### Shortcuts
-[Счачать видео с YouTube](https://www.icloud.com/shortcuts/cc6d4c346d23473fbaab80fd0bd48446) ('Download video from YouTube')
+[**Счачать видео с YouTube**](https://www.icloud.com/shortcuts/cc6d4c346d23473fbaab80fd0bd48446) ('Download video from YouTube')
 
-[Счачать аудио с YouTube](https://www.icloud.com/shortcuts/ddf2efdf67cc4e7491cb3bc8d0bb68af) ('Download audio from YouTube')
+[**Счачать аудио с YouTube**](https://www.icloud.com/shortcuts/ddf2efdf67cc4e7491cb3bc8d0bb68af) ('Download audio from YouTube')
 
 > Simple Shortcuts that take a URL-address as input (e.g. YouTube video > Share > Shortcuts > ...) and pass the URL and either 'video' or 'audio' to _shortcuts_ytdl_.
 
-[yt_save3](https://www.icloud.com/shortcuts/b12c73634a6b400ab6742bd927151865)
+[**yt_save3**](https://www.icloud.com/shortcuts/b12c73634a6b400ab6742bd927151865)
 
 > Called by _shortcuts_ytdl_ when all videos are downloaded. Takes the archive off the clipboard, decodes it, and then offers to save the audio/video files on the device.
