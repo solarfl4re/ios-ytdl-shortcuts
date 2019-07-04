@@ -29,7 +29,7 @@ To pass files on to Shortcuts, it adds each file to a ZIP archive, encodes it wi
 
 [**Счачать аудио с YouTube**](https://www.icloud.com/shortcuts/ddf2efdf67cc4e7491cb3bc8d0bb68af) ('Download audio from YouTube')
 
-> Simple Shortcuts that take a URL-address as input (e.g. YouTube video > Share > Shortcuts > ...) and pass the URL and either 'video' or 'audio' to _shortcuts_ytdl_.
+> Simple Shortcuts that take a URL-address as input (https://youtu.be/Wtg5cTQ1WTs) and pass the URL and either 'video' or 'audio' to _shortcuts_ytdl_.
 
 [**yt_save3**](https://www.icloud.com/shortcuts/b12c73634a6b400ab6742bd927151865)
 
